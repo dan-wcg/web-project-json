@@ -1,0 +1,27 @@
+[
+  {
+    "name": "9-11 Seaview Road",
+    "description": "A luxury beachfront development featuring modern architectural elements and sustainable design principles.",
+    "featuredImage": "https://pub-585815967942457a87c6cae37550e7a0.r2.dev/9-11%20Seaview.webp",
+    "gallery": [
+        "https://pub-585815967942457a87c6cae37550e7a0.r2.dev/9-11%20Seaview.webp",
+        "https://s3.wcg.co.nz/9%2611%20Seaview%20Rd/Seaview_01.JPG"
+    ],
+    "address": {
+        "street": "9 Seaview Road",
+        "area": "Glenfield",
+        "city": "Auckland"
+    },
+    "startDate": "2021-03-15",
+    "completionDate": "2022-06-30",
+    "contractValue": "$8.5M",
+    "groundFloorArea": "650m²",
+    "ourRole": "Main Contractor",
+    "projectScale": "Large-scale residential",
+    "features": [
+        "Beachfront location",
+        "Sustainable design",
+        "Modern architectural elements"
+    ]
+}
+ ]
